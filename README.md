@@ -91,7 +91,9 @@ This work is licensed under the **Creative Commons Attribution 4.0 International
 You are free to use, modify, and distribute this work as long as you credit **Karl Coronas** as the inventor where applicable and the use of the concept name **CDMLE**.  
 
 > **No patent rights are claimed. This disclosure is intended to act as prior art and to prevent others from patenting the same invention.**  
-> I do **not authorize any institution, organization, or government** to restrict the use or distribution of the CDMLE (Coronas Darkfield Microscopy Light-Source Enhancement).
+> I do not authorize any **institution, authority or organizations** to restrict the use or distribution of the CDMLE (Coronas Darkfield Microscopy Light-Source Enhancement).
+>
+> The concept and imagery results have also been posted elsewhere over the last year. The system was initially tested over seven months ago and has been used almost daily since. Current date: September 17th 2025.
 
 See the [LICENSE](LICENSE) file for the full legal text.
 
@@ -100,7 +102,7 @@ See the [LICENSE](LICENSE) file for the full legal text.
 ## Credit & Terminology  
 
 Please use the abbreviation **CDMLE** when referring to this modification.  
-This helps ensure proper attribution and a consistent name for the technology worldwide.
+This helps ensure proper attribution and a consistent name for its use worldwide.
 
 ---
 
