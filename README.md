@@ -56,8 +56,8 @@ If anyone would like to DONATE KO-FI please visit: **https://ko-fi.com/kcresearc
 - Thermal paste  
 - Suitable switch-mode power supply (matching LED voltage/current)  
 - Adjustable current-control regulator with display (must tolerate LED load + overhead)  
-- 160 mm collimating or refocusing lens (positions LED at correct focal distance)  
-- Chromed light-guide tube/skirt to reduce stray light and increase darkfield contrast  
+- 160 mm collimating or refocusing lens (positions LED at correct focal distance). (160mm for Leica DM series microscopes only, distance of optical path varies by scope and optic spacing).
+- Chromed light-guide tube/skirt to reduce stray light and increase darkfield contrast.   
 - A cabinet or mount to house the modified microscope
 
   There are now 500Watt LEDS available as of very recently. BUT, these will give off extreme heat and often are not reliable in such high tempreture ranges without impractical design additions to account for all the heat. Worst of all the light overwhelms the sample background with scattered light and contrast can be lost significantly. The foot print of this COB LED at 300Watts is larger than I would prefer but is much smaller than most others of the same output power and the larger COB LEDS are definately far too large a surface area for maintaining quality imaging yet. The gain between a 100Watt LED and a 300Watt is not linear. Between 150Watts and 300Watts there is far less notable gain in improvement.
