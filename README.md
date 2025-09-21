@@ -66,6 +66,7 @@ If anyone would like to DONATE KO-FI please visit: **https://ko-fi.com/kcresearc
 ## Modification Notes  
 (Not all microscopes can be modified safely; high-heat systems can melt cheaper optics or body materials).
 (check the focal lengths and distances if using other brand scopes and models. This affects the refocusing lens requirement. For DM2000 160mm mwas distance required).
+DON'T USE A CHEAP CAMERA AND EXPECT GREAT RESULTS! AVOID SMALL NOISY SENSORS! AVOID CHEAP CHINESE LOW QUALITY OPTIC MICROSCOPES IF LOOKING FOR TOP PERFORMANCE.
 
 - The example here uses a **Leica DM2000** lab-grade light microscope.
  
@@ -75,7 +76,7 @@ If anyone would like to DONATE KO-FI please visit: **https://ko-fi.com/kcresearc
 - Attach the chromed tube skirt from a heat-proof clamp next to the LED COB and direct light up to the 160 mm lens.  
 - Leave heat-escape gaps below and above the skirt; failure to do so will destroy the LED or may cause fire/explosion.
 
-- PLEASE NOTE! This was a rush idea in order to fulfil research requirements in practical use, the scope calculations and measurements may not be fully optimized.
+- PLEASE NOTE! This was a rush idea in order to fulfil research requirements in practical use, the scope calculations and measurements may not be fully optimized, if mentioned at all. The concept is so simple that tailoring the lenses to your microscope specification should be a fairly easy task.
 - IMPROVEMENTS! There will likely be folks who have more time than I do right now to play around.
 
   Results are what counts and in my case I manaaged to obtain imaging that was far above the quality of anything ive seen or could find evidence of in any peer review paper or place online. While searching for other designs out there I managed to find nothing. According to ChatGPT and other LLM's they could not find any patents or documentation regarding this particular form of microscope modification using this much light power. It seems a 300Watt COB LED is roughly 10x more powerful than most high-end lab-grade darkfield microscopes, the larger of which often use 150w and rarely sometimes 250watt arc lamps. Obviously LED Watts to gas and filament Watts do not give a comparable light output by watts alone, LEDS are far more efficient and give directed light in a forward direction rather than radially. 
